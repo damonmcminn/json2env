@@ -2,7 +2,7 @@
 CLI for formatting a JSON config file as a single line
 
 #### Installation
-    npm install --global damonmcminn/json2env
+    npm install --global json2env
 
 #### Intended Usage
 ```
