@@ -1,0 +1,27 @@
+{
+  "name": "json2env",
+  "version": "1.0.0",
+  "description": "Multi line JSON to a single line",
+  "main": "json2env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damonmcminn/json2env.git"
+  },
+  "keywords": [
+    "json",
+    "env",
+    "cli"
+  ],
+  "author": "Damon McMinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damonmcminn/json2env/issues"
+  },
+  "homepage": "https://github.com/damonmcminn/json2env",
+  "bin": {
+    "json2env": "json2env.js"
+  }
+}
